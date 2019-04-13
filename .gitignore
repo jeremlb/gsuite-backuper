@@ -1,0 +1,8 @@
+.DS_Store
+dist/
+node_modules/
+
+# application files
+.credentials.json
+config.json
+test/
